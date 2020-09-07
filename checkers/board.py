@@ -15,6 +15,10 @@ class Board:
                 pygame.draw.rect(win, RED, (row*SQUARE_SIZE, col*SQUARE_SIZE, SQUARE_SIZE, SQUARE_SIZE))
 
 
+    def create_board(self):
+        pass
+
+
 
 
 
